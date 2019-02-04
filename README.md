@@ -1,2 +1,3 @@
 # hello-world
-Just test repository
+Hi Guys
+This is readme edit branch and i like to learn about github
